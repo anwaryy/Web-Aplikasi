@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .red { background-color: red; }
+  .orange { background-color: orange; }
+  .yellow { background-color: yellow; }
+  .green { background-color: green; }
+  .blue { background-color: blue; }
+  .indigo { background-color: indigo; }
+  .purple { background-color: purple; }
+  
